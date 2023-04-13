@@ -1,0 +1,7 @@
+Modulos que vi até agora:
+-> Prepare-se Para a Jornada
+	Conheça as Oportunidades da DIO
+	Seja Protagonista Neste Bootcamp
+	Boas-vindas ao Potência Tech Angular Developer - Powered by iFood
+	Introdução ao Git e ao GitHub
+	Como Entregar seu Desafio de Projeto
